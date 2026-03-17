@@ -4,7 +4,7 @@
 - C / Python
 
 **Embedded**
-- STM32 / Arduino / FreeRTOS
+- Arduino / Raspberry Pi
 
 **Robotics**
 - ROS / PID Control / Sensor Processing
