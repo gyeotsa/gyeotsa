@@ -1,7 +1,7 @@
 ## 🛠 Tech Stack
 
 **Languages**
-- C / C++ / Python
+- C / Python
 
 **Embedded**
 - STM32 / Arduino / FreeRTOS
