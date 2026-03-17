@@ -28,30 +28,13 @@ Skills
   <img src="https://img.shields.io/badge/Simulink-039BE5?style=for-the-badge&logo=Simulink&logoColor=white"/>
 </p>
 
-📚 Working In Progress
+Working In Progress
 <p align="center">
   <img src="https://img.shields.io/badge/Algorithms-FF6B6B?style=flat-square&logo=TheAlgorithms&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded-000000?style=flat-square&logo=Embedded&logoColor=white"/>
 </p>
 
-<!--
-<details>
-<summary>More About Me</summary>
-<br>
 
-🎯 Current Focus
-• Advanced Game Programming Patterns<br>
-• Graphics Programming with DirectX 11<br>
-• Unity Performance Optimization<br>
-• Problem Solving on BOJ
-
-🏆 Goals for 2024
-• Master Unity DOTS<br>
-• Develop Portfolio Projects<br>
-• Improve Algorithm Skills
-
-</details>
--->
 <details>
 <summary>Git 컨벤션 가이드</summary>
 <div markdown="1">
@@ -60,7 +43,7 @@ Skills
 
 ## 📋 개요
 
-이 문서는 evespimrose의 프로젝트에서 사용하는 Git 커밋 컨벤션을 정의합니다. 일관된 커밋 메시지 작성으로 프로젝트 히스토리를 명확하고 추적 가능하게 만듭니다.
+이 문서는 gyeotsa의 프로젝트에서 사용하는 Git 커밋 컨벤션을 정의합니다. 일관된 커밋 메시지 작성으로 프로젝트 히스토리를 명확하고 추적 가능하게 만듭니다.
 
 ## 🏷️ 커밋 메시지 형식
 
