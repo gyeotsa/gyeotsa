@@ -1,11 +1,4 @@
 ## 🛠 Tech Stack
 
-**Languages**
-- C / Python
+- C / Python / Arduino / Raspberry Pi / ROS / PID Control / Sensor Processing / GitHub / OpenCV / MATLAB / Simulink
 
-**Embedded**
-- Arduino / Raspberry Pi
-
-**Robotics**
-- ROS / PID Control / Sensor Processing
-## 📊 GitHub Stats
