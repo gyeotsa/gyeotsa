@@ -31,7 +31,7 @@ Skills
 Working In Progress
 <p align="center">
   <img src="https://img.shields.io/badge/Algorithms-FF6B6B?style=flat-square&logo=TheAlgorithms&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded-000000?style=flat-square&logo=Embedded&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded System-000000?style=flat-square&logo=Embedded&logoColor=white"/>
 </p>
 
 
