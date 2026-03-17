@@ -20,7 +20,8 @@
   <img src="https://img.shields.io/badge/Sensor Processing-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-039BE5?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/RaspberryPi-039BE5?style=for-the-badge&logo=RaspberryPi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matlab-039BE5?style=for-the-badge&logo=Matlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Simulink-039BE5?style=for-the-badge&logo=Simulink&logoColor=white"/>
 </p>
 
 📚 Working In Progress
