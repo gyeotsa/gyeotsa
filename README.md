@@ -8,8 +8,8 @@
 
 📊 Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evespimrose&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evespimrose&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gyeotsa&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyeotsa&layout=compact&theme=dracula"/>
   <a href="https://solved.ac/profile/bigjht"><img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bigjht"/>
 </p>
 
