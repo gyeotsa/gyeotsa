@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jang%20Hyoung%20Taek&fontColor=000000&animation=twinkling&reversal=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jeong%20Jiwon%20Taek&fontColor=000000&animation=twinkling&reversal=false)
 
 <p align="center">
   <a href="mailto:ice31842@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
