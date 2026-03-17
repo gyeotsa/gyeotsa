@@ -15,6 +15,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/PID Control-000000?style=for-the-badge&logo=PID&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sensor Processing-005C84?style=for-the-badge&logo=Sensor&logoColor=white"/>
